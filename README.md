@@ -1,4 +1,4 @@
-# 🐝 HoneyProductionAnalysis
+#  LinearRegressionModel
 
 A machine learning project analyzing honey production trends across the United States from 1998 to 2012. The project applies linear regression to understand production decline over time and predict future trends.
 
